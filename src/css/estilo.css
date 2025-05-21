@@ -47,7 +47,7 @@ header #logo{
   margin: 20px;
   padding: 20px;
   border: 1px solid #ddd;
-  background-image: linear-gradient(#303030);
+  background-image: linear-gradient(#303030cd );
   color:#f0f0f0;
   border-radius: 30px;
   text-align: center;
@@ -151,6 +151,15 @@ button:hover{
     margin-top: 5px;
 }
 
+.sobre{
+
+    font-size: x-large;
+    background: #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
 
 footer{
     margin-top: 30vh;
